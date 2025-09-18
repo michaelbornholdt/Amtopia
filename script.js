@@ -105,6 +105,7 @@ document.addEventListener('DOMContentLoaded', function() {
         observer.observe(el);
     });
 
+
     // Add typing effect to hero title (optional)
     const heroTitle = document.querySelector('.hero-title');
     if (heroTitle) {
